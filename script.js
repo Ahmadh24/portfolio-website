@@ -219,6 +219,17 @@ if (skillsSection) {
     }, { threshold: 0.5 });
     
     skillsObserver.observe(skillsSection);
+    
+    // Fallback: ensure skills are visible after 3 seconds even if observer doesn't trigger
+    setTimeout(() => {
+        const skillItems = document.querySelectorAll('.skill-item');
+        skillItems.forEach(item => {
+            if (item.style.opacity === '0') {
+                item.style.opacity = '1';
+                item.style.transform = 'scale(1)';
+            }
+        });
+    }, 3000);
 }
 
 // Project card hover effects
@@ -274,6 +285,16 @@ document.addEventListener('DOMContentLoaded', () => {
         item.style.transform = 'translateX(-50px)';
         item.style.transition = 'all 0.5s ease';
     });
+    
+    // Mobile fallback: make skills visible immediately on mobile devices
+    if (window.innerWidth <= 768) {
+        setTimeout(() => {
+            skillItems.forEach(item => {
+                item.style.opacity = '1';
+                item.style.transform = 'scale(1)';
+            });
+        }, 1000);
+    }
 });
 
 // Resume download functionality
