@@ -1,0 +1,117 @@
+SAMPLE RESUME FORMAT
+====================
+
+YOUR NAME
+---------
+Email: your.email@example.com
+Phone: (555) 123-4567
+Location: Your City, State
+LinkedIn: linkedin.com/in/yourprofile
+GitHub: github.com/yourusername
+Portfolio: yourportfolio.com
+
+PROFESSIONAL SUMMARY
+--------------------
+Experienced Full Stack Developer with 5+ years of expertise in modern web technologies. 
+Passionate about creating scalable, user-friendly applications and leading development teams. 
+Strong background in React, Node.js, and cloud technologies with a proven track record 
+of delivering high-quality software solutions.
+
+TECHNICAL SKILLS
+----------------
+Frontend: HTML5, CSS3, JavaScript (ES6+), React, Vue.js, TypeScript
+Backend: Node.js, Python, Java, Express.js, Django
+Databases: MongoDB, PostgreSQL, MySQL, Redis
+Cloud & DevOps: AWS, Docker, Git, CI/CD, Jenkins
+Tools: VS Code, Postman, Figma, Adobe Creative Suite
+
+PROFESSIONAL EXPERIENCE
+-----------------------
+
+Senior Full Stack Developer
+Tech Company Inc. | 2022 - Present
+• Led development of enterprise web applications serving 10,000+ users
+• Managed a team of 5 developers and implemented CI/CD pipelines
+• Improved application performance by 40% through optimization techniques
+• Developed scalable microservices architecture using React, Node.js, and AWS
+• Mentored junior developers and conducted code reviews
+
+Frontend Developer
+Digital Agency XYZ | 2020 - 2022
+• Built responsive web applications and e-commerce platforms
+• Created 15+ client websites using modern JavaScript frameworks
+• Implemented responsive design principles and optimized for SEO
+• Collaborated with designers to implement pixel-perfect UI/UX designs
+• Reduced page load times by 60% through optimization techniques
+
+Junior Developer
+Startup ABC | 2019 - 2020
+• Contributed to SaaS platform development using React, Python, and PostgreSQL
+• Built user authentication system and developed RESTful APIs
+• Participated in agile development process and daily stand-ups
+• Implemented automated testing and deployment pipelines
+
+PROJECTS
+---------
+
+E-Commerce Platform
+• Full-stack e-commerce solution with payment integration and admin dashboard
+• Technologies: React, Node.js, MongoDB, Stripe, AWS
+• Features: User authentication, product management, order processing
+• Live Demo: [Your Demo Link] | GitHub: [Your GitHub Link]
+
+Task Management App
+• Collaborative task management application with real-time updates
+• Technologies: Vue.js, Firebase, Vuetify, PWA
+• Features: Team collaboration, progress tracking, mobile responsive
+• Live Demo: [Your Demo Link] | GitHub: [Your GitHub Link]
+
+Data Analytics Dashboard
+• Interactive dashboard for visualizing business metrics
+• Technologies: React, D3.js, Python, AWS
+• Features: Real-time data updates, custom reporting, data visualization
+• Live Demo: [Your Demo Link] | GitHub: [Your GitHub Link]
+
+EDUCATION
+----------
+Bachelor of Science in Computer Science
+University Name | 2015 - 2019
+• GPA: 3.8/4.0
+• Relevant Coursework: Data Structures, Algorithms, Web Development, Database Systems
+
+CERTIFICATIONS
+--------------
+• AWS Certified Developer Associate
+• MongoDB Certified Developer
+• Google Cloud Professional Developer
+
+LANGUAGES
+----------
+• English (Native)
+• Spanish (Conversational)
+
+INTERESTS
+----------
+• Open Source Contribution
+• Machine Learning
+• UI/UX Design
+• Tech Blogging
+• Hackathons
+
+===========================================
+
+INSTRUCTIONS FOR CONVERTING TO PDF:
+1. Copy this content into a word processor (Microsoft Word, Google Docs, etc.)
+2. Format it with proper styling (headers, bullet points, spacing)
+3. Export or save as PDF
+4. Name the file "resume.pdf"
+5. Place it in the same folder as your index.html file
+
+TIPS FOR A GREAT RESUME:
+- Keep it to 1-2 pages maximum
+- Use action verbs to describe your achievements
+- Quantify your accomplishments with numbers
+- Tailor it to the specific job you're applying for
+- Use a clean, professional font
+- Include relevant keywords for ATS systems
+- Proofread carefully for typos and grammar errors 
